@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-demo-live-react-web/static/css/main.d5289b2f.css",
+    "main.js": "/first-demo-live-react-web/static/js/main.13df34f6.js",
+    "index.html": "/first-demo-live-react-web/index.html",
+    "main.d5289b2f.css.map": "/first-demo-live-react-web/static/css/main.d5289b2f.css.map",
+    "main.13df34f6.js.map": "/first-demo-live-react-web/static/js/main.13df34f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.13df34f6.js"
+  ]
+}
